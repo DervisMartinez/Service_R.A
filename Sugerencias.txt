@@ -1,0 +1,3 @@
+afiche auto rellenable del servicio o de la denuncia 
+varias fichas para cada solicitud 
+en blanco Nombre ,Apellido , Cedula y motivo 
